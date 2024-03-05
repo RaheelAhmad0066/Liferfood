@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707047809654",
+    "project_id": "lifer-foods",
+    "storage_bucket": "lifer-foods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707047809654:android:defd0ed1f741b5cd47b557",
+        "android_client_info": {
+          "package_name": "com.app.lifer_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmeemfmOiGWNy7sPnENsAFOBsu4mZ_AFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
